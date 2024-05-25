@@ -1,2 +1,3 @@
 # streetlightsnatureoverhaulchernarus
-Adds streetlights &amp; nature reclaiming towns.
+Adds streetlights & nature reclaiming towns.
+Both StreetLights & Nature's Overhaul are made by DonSibleyGames, I have just put them together.
